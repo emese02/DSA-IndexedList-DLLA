@@ -1,0 +1,3 @@
+C:/Users/Emese/Documents/1CV/C++/DSA/ProjectIndexedList_DLLA/cmake-build-debug/CMakeFiles/ProjectIndexedList_DLLA.dir
+C:/Users/Emese/Documents/1CV/C++/DSA/ProjectIndexedList_DLLA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Emese/Documents/1CV/C++/DSA/ProjectIndexedList_DLLA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
